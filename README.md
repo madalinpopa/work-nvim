@@ -1,2 +1,2 @@
-# work-nvim
-Neovim configuration
+# Minimal Neovim Configuration
+
