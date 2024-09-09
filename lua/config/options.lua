@@ -65,3 +65,8 @@ w.scroll = 5
 -- Highlight cursor line
 w.cursorline = true
 
+-- Set default tab stop
+o.tabstop = 4
+
+-- Number of spaces to use for each step
+o.shiftwidth = 4
